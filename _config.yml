@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "^_^"
+title                    : "개발명가"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kyungwook Nam"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Kyungwook Nam"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CS beginner, interested in Frontend, Deep Learning"
+  bio              : "Baby SW Developer, interested in Frontend, Deep Learning"
   location         : "Dongtan"
   email            :
   links:
