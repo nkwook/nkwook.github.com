@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark"
 #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "개발명가"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -95,8 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "Kyungwook Nam"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Baby SW Developer, interested in Frontend, Deep Learning"
+  avatar           : "/assets/profile.jpeg"
+  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Baby Software Engineer"
   location         : "Dongtan"
   email            :
   links:
@@ -114,7 +115,7 @@ author:
       url: "https://www.facebook.com/profile.php?id=100001812061112"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nkwoOK"
+      url: "https://github.com/nkwook"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

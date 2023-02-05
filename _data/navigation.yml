@@ -12,14 +12,10 @@ main:
   #   url: /sitemap/
 
 
-  - title: "About"
-    url: /about/
-  - title: "Life"
-    url: /life/
-  - title: "Development"
-    url: /Development/
-  - title: "^_^"
-    url: /posts/
+  # - title: "About"
+  #   url: /about/
+  - title: "^___^"
+    url: /categories/
 
   # - title: "TIL"
   #   url: /til/

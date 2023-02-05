@@ -1,6 +1,6 @@
 ---
 title: "Development"
-layout: categories
+layout: category
 permalink: /development/
 author_profile: true
 ---

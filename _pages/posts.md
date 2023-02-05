@@ -1,6 +1,6 @@
 ---
 title: "^______^"
 layout: categories
-permalink: /posts/
+permalink: /categories/
 author_profile: true
 ---
