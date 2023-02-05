@@ -1,6 +1,6 @@
 ---
 title: "[Leetcode] 818. Race Car"
-excerpt: "test"
+excerpt: ""
 tags: [Leetcode, Algorithm]
 toc: true
 toc_sticky: true    
@@ -9,7 +9,7 @@ date: 2023-02-05
 categories: Algorithm 
 ---
 
-Difficulty | Time  | Succeed?
+Difficulty | Time  | Succeed? 
 :---: | --- | :---:
 *Hard* |  > 0:45 | X
 
@@ -91,7 +91,7 @@ So I resolved the error by adding conditionals to avoid the position variable be
 
 ### TLE
 
-I expected `O(nlgn)` time complexity, but TLE occured. I had give condition when giving **R** instruction since when target is bigger than position and the car is heading to target, there is no need to turn speed to negative. 
+I expected `O(nlgn)` time complexity, but TLE occured. I had to give condition when giving **R** instruction since when target is bigger than position and the car is heading to target, there is no need to turn speed to negative. 
 
 ## Revised Code
 ```c++
